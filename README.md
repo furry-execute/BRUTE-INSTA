@@ -18,7 +18,7 @@ A high-performance Instagram brute force scanner utilizing multiple Tor circuits
 
 ### Automated Setup (Recommended)
 ```bash
-git clone git clone https://github.com/furry-execute/BRUTE-INSTA.git
+git clone https://github.com/furry-execute/BRUTE-INSTA.git
 cd BRUTE-INSTA
 pip install -r requirements.txt 
 python BRUTE-INSTA.py
