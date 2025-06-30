@@ -1,0 +1,6 @@
+requests==2.32.4
+stem==1.8.2
+urllib3==2.5.0
+charset-normalizer==3.4.2
+idna==3.10
+certifi==2025.6.15
