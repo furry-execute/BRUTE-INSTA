@@ -68,7 +68,7 @@ python BRUTE-INSTA.py
 
 When prompted:
 1. Enter target Instagram username
-2. Specify password list file (default: passwords.lst)
+2. Specify password list file (default: common-passwords.txt)
 3. The scanner will automatically:
    - Initialize Tor circuits
    - Verify connections
